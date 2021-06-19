@@ -4,8 +4,8 @@ This is just a simple application that deletes files with repeating names and lo
 
 ## Installation
 Just clone the repo
-> git clone https://github.com/LeonardoTolstoi/delrep.git
+`git clone https://github.com/LeonardoTolstoi/delrep.git`
 
 And then run 
-> sudo make install
+`sudo make install`
 
